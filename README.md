@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm Huy 👋
+- 🔭 I considered myself a fresher dev
+- 🌱 I’m currently learning Go, Python
+- 📫 How to reach me: huytd072@gmail.com
 
 <!--
 **messdev072/messdev072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
