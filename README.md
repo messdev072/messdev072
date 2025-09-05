@@ -1,19 +1,44 @@
-## Hi I'm Huy 👋
-- 🔭 I considered myself a fresher dev
-- 🌱 I’m currently learning Go, Python
-- 📫 How to reach me: huytd072@gmail.com
+# Hi, I’m Mess 👋  
 
-<!--
-**messdev072/messdev072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Back-end Developer | Go Specialist | Systems Engineer**  
 
-Here are some ideas to get you started:
+I design and build scalable backend systems with a focus on performance, reliability, and clean architecture. My work spans from APIs and distributed systems to lightweight runtimes and developer tooling.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me  
+- 🎯 Strong background in **backend development** with Go and Python  
+- ⚡ Passionate about **high-performance, distributed systems**  
+- 🛠️ Experienced in building **developer tools and infrastructure**  
+- 📚 Constantly learning — currently exploring **runtime design** and **game development**  
+- 🤝 Open to opportunities where I can contribute to **scalable system design** and **innovative backend solutions**  
+
+---
+
+## 🔧 Technical Skills  
+- **Languages:** Go, Python, TypeScript, SQL  
+- **Backend & Infra:** Redis, PocketBase, NATS, gRPC, REST APIs  
+- **Tools & Platforms:** Linux, Docker, Git, CI/CD pipelines  
+- **Special Interests:** Distributed systems, runtime design, task scheduling  
+
+---
+
+## 📂 Current Projects  
+- ⚡ Building a **lightweight Redis-like key-value store** with multithreading support  
+- 🎮 Researching **distributed system** for future projects  
+
+---
+
+## 📊 GitHub Insights  
+![Mess's GitHub stats](https://github-readme-stats.vercel.app/api?username=messdev072&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=messdev072&layout=compact&theme=default)  
+
+---
+
+## 🌐 Connect  
+- 📧 Email: huytd072@gmail.com
+- 💼 [LinkedIn](#)  
+
+---
+
+✨ *Always looking to collaborate on backend, distributed systems, and Go-based projects.*  
